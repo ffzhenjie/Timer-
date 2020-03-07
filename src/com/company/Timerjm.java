@@ -75,7 +75,7 @@ public class Timerjm {
         },1000,10000);
 //        Thread.sleep(2000);
 //        timer.cancel();
-
+        System.out.println("123");
     }
 
 }
